@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "300733879285",
+    "firebase_url": "https://hackathon-dc5db.firebaseio.com",
+    "project_id": "hackathon-dc5db",
+    "storage_bucket": "hackathon-dc5db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300733879285:android:3c7e2aa3be9ec994a086bc",
+        "android_client_info": {
+          "package_name": "com.jar.hackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300733879285-irf6n5np63alrimd4ooja29de6s0g80p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jar.hackathon",
+            "certificate_hash": "a49b062a02de1645b88fa2b0d6d95d21334bc132"
+          }
+        },
+        {
+          "client_id": "300733879285-9ouj2dg4pqbud8o0g3gv4pkssud7dbbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWQ9Gwmj4S_ncaKqJukwNH81Zty1rVhX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300733879285-9ouj2dg4pqbud8o0g3gv4pkssud7dbbq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hackathon</string>
+    <string name="log_in">log in</string>
+    <string name="button">Button</string>
+    <string name="login">log in</string>
+    <string name="signup">signup</string>
+    <string name="sign_up">sign up</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="welcome">Welcome</string>
+</resources>
