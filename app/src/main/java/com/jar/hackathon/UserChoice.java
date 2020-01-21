@@ -25,7 +25,7 @@ public class UserChoice extends AppCompatActivity {
         administrator.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-
+                openAdminLoginPage();
             }
         });
     }
@@ -35,4 +35,12 @@ public class UserChoice extends AppCompatActivity {
         intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
         startActivity(intent);
     }
+
+    void openAdminLoginPage(){
+        Intent intent = new Intent(this.getApplicationContext(),AdminLogin.class);
+        intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
+        startActivity(intent);
+    }
+
+
 }
